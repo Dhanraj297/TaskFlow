@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow: Enhanced To-Do List",
+  "description": "A feature-rich To-Do list with deadlines, reminders, drag-and-drop sorting, and dark mode.",
+  "requestFramePermissions": []
+}
